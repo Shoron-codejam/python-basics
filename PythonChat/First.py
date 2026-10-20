@@ -19,7 +19,7 @@ price3 = 2
 rating = 4.9
 name   = "Shoron"
 is_published = True
-print =(price3)
+print (price3)
 
 # Quize 1
 ful_name = "Johan Smith" 
