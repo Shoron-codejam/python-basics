@@ -1,7 +1,7 @@
 while True: 
     try:
      age = int(input("What is your age? : "))
-     if age <= 0 and age >= 100 :
+     if age <= 0 or age >= 100 :
         print("Age must be greater than 0.")
      else:  
       print(f"Your age : {age}")  
